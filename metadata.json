@@ -1,0 +1,7 @@
+{
+  "name": "HERE NOW REVISED",
+  "description": "Visualize your dream retirement. Upload or take a photo, describe your ideal future, and let AI generate a glimpse of your future self.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
